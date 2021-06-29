@@ -4,6 +4,32 @@ Cyrilex is a visual regex tester.
 
 Try the demo here: [https://extendsclass.com/regex-tester.html](https://extendsclass.com/regex-tester.html)
 
+## Alguns exemplos de uso:
+
+```
+/(XP[a-z]th)|(JSONPath)/g
+
+Online XPath tester
+
+
+/(XPth)|(Ribafs)/g
+
+Ribafs
+
+
+/(Ribafs)/g
+
+
+/[a-z]/g
+
+r
+
+
+/[a-z]-[1-3]/g
+
+adfdfd-3
+```
+
 ![alt text](./image/preview.png "Preview")
 
 ## Dependencies 
