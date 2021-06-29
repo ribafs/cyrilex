@@ -1,0 +1,23 @@
+Exemplos de uso
+
+/(XP[a-z]th)|(JSONPath)/g
+
+Online XPath tester
+
+
+/(XPth)|(Ribafs)/g
+
+Ribafs
+
+
+/(Ribafs)/g
+
+
+/[a-z]/g
+
+r
+
+
+/[a-z]-[1-3]/g
+
+adfdfd-3
